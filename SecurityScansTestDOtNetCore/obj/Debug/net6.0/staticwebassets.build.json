@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kLIrSEIU/V2Z91459LJm9XFD3+jGsyS7X4DiS2Jkfbo=",
+  "Source": "SecurityScansTestDOtNetCore",
+  "BasePath": "_content/SecurityScansTestDOtNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
